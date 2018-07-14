@@ -1,0 +1,7 @@
+[package]
+name = "clion_rust"
+version = "0.1.0"
+authors = ["Anton Zelenin <a.zelenin@zinitsolutions.com>"]
+
+[dependencies]
+rand = "0.5.3"
